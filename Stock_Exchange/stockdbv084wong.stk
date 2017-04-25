@@ -1,0 +1,21 @@
+Stock_Exchange_Database v084
+
+sort_settings: 5
+company
+Samsung         <LTD>            5000      12.5      Conglomerate
+company
+Google&Intel    <LTD>            4154      4.751     Internet&Chips
+company
+Bell            <Goverment>      200       1.5       Electronics
+company
+Gas             <SOE>            600       1.9       Chemicals
+company
+Water&FBI       <SOE>            650       1.5       Services&Law
+class Share
+Google&Intel    <Share>          1500      4.751     36.1098%     
+class Bond
+Bell            <Bond>           120       1.5                    20           09.06.2033       
+class State_Stock
+Gas             <State-stock>    600       1.9       100%         1            12.12.2050       yes
+class State_Stock
+Water&FBI       <State-stock>    400       1.5       61.5385%     6.1          12.12.2019       no

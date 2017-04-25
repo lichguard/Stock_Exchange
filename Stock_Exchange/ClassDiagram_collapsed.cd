@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExpDifferentCompaniesType" Collapsed="true">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpEntityMissing" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Market.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAQABACAIAIIAAQAAAQAFgCBAABAEBAAAAAA=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Market" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABACAAAEAABAgAAUABAiWBAIAAUAoAMKFRgAAEBAAI=</HashCode>
+      <FileName>Market.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABAAABAAACQAAAAAAQIAAAAAAAgAgAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpDifferentStocksType" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Security" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAACAIAIIAEQABAAAEgCBAAAQkAAAAAAA=</HashCode>
+      <FileName>Stock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Share" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAAAAAAAAAAAAAAEQIAAAAQgAAAAAAA=</HashCode>
+      <FileName>Stock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bond" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAACAAAAACIACAAAgUAAAAAIQgAAAAAAA=</HashCode>
+      <FileName>Stock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State_Stock" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAIAAAAAQAAEBAAAAIQgEAAAAAA=</HashCode>
+      <FileName>Stock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABAAIABECCBAEAAAAAAAAIAgBAAAAAQAAEggAA=</HashCode>
+      <FileName>System.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CompaniesComperator" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAI=</HashCode>
+      <FileName>Market.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SecuritiesComperator" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAI=</HashCode>
+      <FileName>Market.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Date" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAEAAAAAAAAAAAAIAAAAAQAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Stock.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="CompanyType" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAACAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="commands" Collapsed="true">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAAAAAAAAEgAAAAAAGEAABAAEQAIILAQBAAAAIAA=</HashCode>
+      <FileName>PVL.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

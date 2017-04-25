@@ -1,0 +1,62 @@
+/*************************************************
+* This file is part of the Stock-Exchange Project. *
+* Notes: - *
+* Version: 0.84 *
+***************************************************/
+
+---Stock-Exchange project---
+
+Description:
+Simulates Stock Exchange
+
+---------------------------------------------
+Files Included:
+
+- Main executable
+
+- Accounts Database
+
+- Accounts' data
+
+- Input example, DESCRIPTION and icon.
+
+- Class diagram.
+
+- 13 project files.
+---------------------------------------------
+Controls:
+
+In-app instructions, press escape to exit in the login menu.
+
+---------------------------------------------
+
+Patchnotes and logs:
+
+V0.841 (June 20,2016)
+- Fixed a bug that displayed 010.MM.YYYY in /  DD.010.YYYY in dates.
+
+V0.84 (June 14,2016)
+- Company '+=' and '+' operators have been removed and replaced by a single in-class '+' operator.
+- relocated while(1) loop from main to system and removed try catch block from main.
+- Relocated several exception classes and functions to the their respective headers.
+- Few more documentaions added and increased code format consistency.
+
+-NOTE: CLASS DIAGRAM HAS NOT BEEN UPDATED TO REFLECT RECENT OPRERATORS REMOVAL AND/OR MODIFICATION.
+
+V0.83 (June 13,2016)
+- Stocks operators have been removed and replaced by polymorphic '+' operator.
+- Merge companies function has been modified to accommodate the new '+' operator.
+
+V0.812 (June 12,2016)
+- Admin panel has been partially implemented.
+- Fixed a bug allowing a single user to register multiple times. 
+- Removed redundant code of stocks file's += operators.
+- Fixed a bug causing the date operator < in date to behave differently than intended.
+- Few more documentations have been added.
+- Added critical error to main to better handle sudden crashes.
+
+V0.81 (June 12, 2016)
+- Added features.
+
+V0.8 (June 10, 2016)
+- Initial beta launch.
